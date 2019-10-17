@@ -4,8 +4,8 @@ The majority of starter code is written by Professor Adrienne Slaughter and Modi
 ## Stage I
 *Build a file indexer*
 ## Stage II
-*Implement Query Processing*
+*Implement query processing*
 ## Stage III
-*Implement Multithreading*
+*Implement multithreading*
 ## Final Stage
-*Complete Client-Server Query Engine*
+*Complete client-server query engine*
